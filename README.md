@@ -1,4 +1,4 @@
-#FlutterBase
+FlutterBase
 Overview
 Welcome to the Project repository! This repository serves as a starting point for a Flutter application. It provides a foundational structure to help you get started with Flutter development.
 
